@@ -1,0 +1,8 @@
+---- References ----
+
+(1) https://github.com/iamsh4shank/Arm_analyser?tab=readme-ov-file#what-is-a-2-dof-manipulator-wrench
+(2) https://github.com/iamsh4shank/Arm_analyser?tab=readme-ov-file#what-is-a-2-dof-manipulator-wrench
+(3) https://www.slideshare.net/slideshow/robot-arm-ppt/250889921
+(4) https://slideplayer.com/slide/13481735/
+(5) https://www.youtube.com/watch?v=Lax3etc837U
+(6) https://slideplayer.com/slide/14932222/
